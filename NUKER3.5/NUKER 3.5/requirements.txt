@@ -2,4 +2,5 @@ discord
 discord.py
 random2
 colorama
-
+threaded
+jsons
