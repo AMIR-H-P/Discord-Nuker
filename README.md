@@ -37,10 +37,10 @@ Extract the ZIP and run main.py
 | *Made By :*   |        AMIR1/3     |
 | *User :*      |'झ AMIR ᴾᴼᵂᴱᴿ#0386 |
 | *Server :*   | https://discord.gg/iranian |
-#
+
 
 
 
 <a href="https://discord.gg/iranian" target="_blank"><img src="https://discordapp.com/api/guilds/967103945770160188/widget.png?style=banner4" alt="POWER"/></a>
 
-<a href="https://github.com/AMIR-H-P" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/820768778761273376.png"/></a>
+
