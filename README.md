@@ -1,4 +1,18 @@
 # *Discord Nuker 13*
+
+
+<p align="center">
+ <img src="https://img.shields.io/github/languages/top/Rdimo/Hazard-Nuker?style=flat-square" </a>
+ <img src="https://img.shields.io/github/last-commit/AMIR-H-P/Discord-Nuker?color=blue&style=flat-square" </a>
+ <img src="https://img.shields.io/github/stars/AMIR-H-P/Discord-Nuker?color=blue&label=Stars&style=flat-square" </a>
+ <img src="https://img.shields.io/github/forks/AMIR-H-P/Discord-Nuker?color=blue&label=Forks&style=flat-square" </a>
+</p>
+
+<p align="center">
+[ <a href="https://github.com/AMIR-H-P/Discord-Nuker/edit/main/README.md#how-to-install-">How to install</a> ] [
+<a href="https://discord.gg/iranian">Discord</a> ]
+</p>
+
 ### *Features :*
 > - [x] *Spam in all channels*
 > - [x] *Delete all Role*
