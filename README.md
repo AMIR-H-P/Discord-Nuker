@@ -46,7 +46,7 @@ Extract the ZIP and run main.py
 - NOTE: Make sure you have Python & the Requirements installed
 ```
 ```js
-- NOTE²: if you think this is a Token Grabber, you can prove it to me or others by proving it! 
+- NOTE²: If you think this is a Token Grabber, you can prove it Send it to me in Discord with the document you have!
 ```
 #
 |*Information:* | *Response:* |
