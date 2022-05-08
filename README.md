@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-[ <a href="https://github.com/AMIR-H-P/Discord-Nuker/#how-to-install-">How to install</a> ] [
+[ <a href="https://github.com/AMIR-H-P/Discord-Nuker/#how-to-install">How to install</a> ] [
 <a href="https://discord.gg/iranian">Discord</a> ]
 </p>
 
