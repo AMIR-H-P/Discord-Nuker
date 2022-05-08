@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-[ <a href="https://github.com/AMIR-H-P/Discord-Nuker/edit/main/README.md#how-to-install-">How to install</a> ] [
+[ <a href="https://github.com/AMIR-H-P/Discord-Nuker/README.md#how-to-install">How to install</a> ] [
 <a href="https://discord.gg/iranian">Discord</a> ]
 </p>
 
@@ -36,7 +36,7 @@
 
 #
 
-#### *How to install :*
+#### *How to install:*
 ```
 Click the green "Code" button.
 Click "Download ZIP"
