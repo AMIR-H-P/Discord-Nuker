@@ -58,6 +58,5 @@ Extract the ZIP and run main.py
 
 
 
-<a href="https://discord.gg/iranian" target="_blank"><img src="https://discordapp.com/api/guilds/967103945770160188/widget.png?style=banner2" alt="POWER"/></a>
 
 
