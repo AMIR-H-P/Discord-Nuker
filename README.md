@@ -53,7 +53,7 @@ Extract the ZIP and run main.py
 |--------------|------------ |
 | *Made By :*   |        AMIR1/3     |
 | *User :*      |'狼 AMIR ᴼᴷᴬᴹᴵ#6762 |
-| *Server :*   | https://discord.gg/itz |
+| *Server :*   | https://discord.gg/tweet |
 
 
 
