@@ -2,7 +2,6 @@
 
 
 <p align="center">
- <img src="https://img.shields.io/github/languages/top/Rdimo/Hazard-Nuker?style=flat-square" </a>
  <img src="https://img.shields.io/github/last-commit/AMIR-H-P/Discord-Nuker?color=blue&style=flat-square" </a>
  <img src="https://img.shields.io/github/stars/AMIR-H-P/Discord-Nuker?color=blue&label=Stars&style=flat-square" </a>
  <img src="https://img.shields.io/github/forks/AMIR-H-P/Discord-Nuker?color=blue&label=Forks&style=flat-square" </a>
