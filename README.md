@@ -51,7 +51,7 @@ Extract the ZIP and run main.py
 |*Information:* | *Response:* |
 |--------------|------------ |
 | *Made By :*   |        AMIR1/3     |
-| *User :*      |'狼 AMIR ᴼᴷᴬᴹᴵ#6762 |
+| *User :*      |'AMIR#6762 |
 | *Server :*   | https://discord.gg/tweet |
 
 
