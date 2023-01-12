@@ -12,7 +12,7 @@
 <p align="center">
 [<a href="https://github.com/AMIR-H-P/Discord-Nuker/#how-to-install"> How to install</a> ] - 
 [<a href="https://github.com/CatsSomeCat/Discord-H04X"> Discord-H04X</a> ] - 
-[<a href="https://discord.gg/iranian"> Discord</a> ]
+[<a href="https://discord.gg/kos"> Discord</a> ]
 
 </p>
 
@@ -56,7 +56,7 @@ Extract the ZIP and run main.py
 |--------------|------------ |
 | *Made By :*   |        AMIR1/3     |
 | *User :*      |'AMIR#3333 |
-| *Server :*   | https://discord.gg/itz |
+| *Server :*   | https://discord.gg/kos |
 
 
 
